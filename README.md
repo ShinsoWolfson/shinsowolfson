@@ -2,12 +2,12 @@
 <div align="center">
   <img src="https://gifdb.com/images/high/sao-kirito-and-asuna-combo-4tsugt5prg8734yl.webp" alt="Banner" style="width:100%;"/>
   <h1>Hello, I'm Shin! Pleasure to meet you, quite a pleasure!</h1>
-  <p>Dynamic Data Scientist, DevOps Expert, and Anime/Gaming Enthusiast</p>
+  <p>Dynamic Data Scientist, Business Intelligence Expert, and Anime/Gaming Enthusiast</p>
 </div>
 
 <!-- Introduction -->
 ## 🌟 About Me
-I am a dynamic Data Scientist and DevOps expert with a robust background in scaling and building companies from the ground up. Leveraging advanced coding skills and a deep understanding of data science, I translate complex data into actionable insights, driving business growth and operational efficiency. My proficiency in Python, SQL, and R, coupled with hands-on experience in systems administration, ensures seamless integration and deployment of data-driven solutions. With a proven track record of successfully selling a company to a corporation and collaborating with multiple teams and C-level executives, I bring a strategic edge to any project. When I'm not delving into data, I enjoy anime, gaming, spending quality time with my family, and exploring the latest in AI and ML. Let's connect and turn data into powerful business strategies!
+I am a dynamic Data Scientist and Business Intelligence expert with a robust background in scaling and building companies from the ground up. Leveraging advanced coding skills and a deep understanding of data science, I translate complex data into actionable insights, driving business growth and operational efficiency. My proficiency in Python, SQL, and R, coupled with hands-on experience in business acumen, ensures seamless integration and deployment of data-driven solutions. With a proven track record of successfully selling a company to a corporation and collaborating with multiple teams and C-level executives, & creating multiple companies from the ground up, I bring a strategic edge to any company. When I'm not delving into data, I enjoy anime, gaming, spending quality time with my family, and exploring the latest in AI and ML. Let's connect and turn data into powerful business strategies!
 
 <!-- Skills and Technologies -->
 ## 🚀 Skills and Technologies
