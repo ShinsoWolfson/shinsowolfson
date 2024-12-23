@@ -2,12 +2,12 @@
 <div align="center">
   <img src="https://gifdb.com/images/high/sao-kirito-and-asuna-combo-4tsugt5prg8734yl.webp" alt="Banner" style="width:100%;"/>
   <h1>Hello, I'm Shin! Pleasure to meet you, quite a pleasure!</h1>
-  <p>Dynamic Data Scientist, Business Intelligence Expert, and Anime/Gaming Enthusiast</p>
+  <p>Dynamic Data Analyst, Business Intelligence Expert, and Anime/Gaming Enthusiast</p>
 </div>
 
 <!-- Introduction -->
 ## 🌟 About Me
-I am a dynamic Data Scientist and Business Intelligence expert with a robust background in scaling and building companies from the ground up. Leveraging advanced coding skills and a deep understanding of data science, I translate complex data into actionable insights, driving business growth and operational efficiency. My proficiency in Python, SQL, and R, coupled with hands-on experience in business acumen, ensures seamless integration and deployment of data-driven solutions. With a proven track record of successfully selling a company to a corporation and collaborating with multiple teams and C-level executives, & creating multiple companies from the ground up, I bring a strategic edge to any company. When I'm not delving into data, I enjoy anime, gaming, spending quality time with my family, and exploring the latest in AI and ML. Let's connect and turn data into powerful business strategies!
+I am a dynamic Data Analyst and Business Intelligence expert with a robust background in scaling and building companies from the ground up. Leveraging advanced coding skills and a deep understanding of data, I translate complex data into actionable insights, driving business growth and operational efficiency. My proficiency in Python & SQL, coupled with hands-on experience in business acumen, ensures seamless integration and deployment of data-driven solutions. With a proven track record of successfully selling a company to a corporation and collaborating with multiple teams and C-level executives, & creating multiple companies from the ground up, I bring a strategic edge to any company. When I'm not delving into data, I enjoy anime, gaming, spending quality time with my family, and exploring the latest in AI and ML. Let's connect and turn data into powerful business strategies!
 
 <!-- Skills and Technologies -->
 ## 🚀 Skills and Technologies
@@ -17,11 +17,8 @@ I am a dynamic Data Scientist and Business Intelligence expert with a robust bac
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
 ## 🌟 Accomplishments
