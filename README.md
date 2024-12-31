@@ -40,11 +40,6 @@ I am a dynamic Data Analyst and Business Intelligence expert with a robust backg
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shinsowolfson&theme=dark" alt="Shin's GitHub Streaks" style="width:45%;"/>
 </div>
 
-## 💻 Top Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Top Languages" style="width:45%;"/>
-</div>
-
 <!-- Contact Information -->
 ## 📫 How to Reach Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wolfsonshinso@gmail.com)
