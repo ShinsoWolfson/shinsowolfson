@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://gifdb.com/images/high/sao-kirito-and-asuna-combo-4tsugt5prg8734yl.webp" alt="Banner" style="width:100%;"/>
   <h1>Hello, I'm Shin! Pleasure to meet you, quite a pleasure!</h1>
-  <p>Visionary Data Scientist, Machine Learning Specialist, and Anime/Gaming Enthusiaste</p>
+  <p>Visionary Data Scientist, Machine Learning Specialist, and Anime/Gaming Enthusiast</p>
 </div>
 
 <!-- Introduction -->
