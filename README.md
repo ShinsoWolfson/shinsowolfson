@@ -48,6 +48,7 @@ When I’m not immersed in data, you can find me enjoying anime, gaming, and spe
 <!-- Contact Information -->
 ## 📫 How to Reach Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wolfsonshinso@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Visit%20Now-0A66C2?style=for-the-badge&logo=firefox&logoColor=red)](https://www.shinsowolfson.com)
 
 <!-- Footer with Dark Mode Anime/Gaming Style -->
 <div align="center">
