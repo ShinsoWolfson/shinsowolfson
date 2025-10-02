@@ -2,12 +2,12 @@
 <div align="center">
   <img src="https://gifdb.com/images/high/sao-kirito-and-asuna-combo-4tsugt5prg8734yl.webp" alt="Banner" style="width:100%;"/>
   <h1>Hello, I'm Shin! Pleasure to meet you, quite a pleasure!</h1>
-  <p>Visionary Data Scientist, Machine Learning Specialist, and Anime/Gaming Enthusiast</p>
+  <p>Visionary Data & Operations Leader | Anime/Gaming Enthusiast</p>
 </div>
 
 <!-- Introduction -->
 ## 🌟 About Me
-Hi there! I’m a passionate Data Scientist with a proven track record of transforming complex datasets into game-changing insights and innovative solutions. With deep expertise in Python, SQL, R, and cutting-edge machine learning frameworks like TensorFlow and PyTorch, I thrive on tackling challenges that bridge technology and strategy.
+Hi there! I’m a passionate Data & Operations Leader with a proven track record of transforming complex datasets into game-changing insights and innovative solutions. With deep expertise in Python, SQL, R, and cutting-edge machine learning frameworks like TensorFlow and PyTorch, I thrive on tackling challenges that bridge technology and strategy.
 
 Beyond technical expertise, I excel at bringing companies from conception to revenue-positive, leveraging data-driven strategies to scale operations and achieve sustainable growth. My experience includes collaborating with C-level executives, building predictive models, optimizing workflows, and crafting compelling visualizations—all with the goal of delivering measurable impact.
 
