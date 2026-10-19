@@ -7,11 +7,11 @@
 
 <!-- Introduction -->
 ## 🌟 About Me
-Hi there! I’m a passionate Data & Operations Leader with a proven track record of transforming complex datasets into game-changing insights and innovative solutions. With deep expertise in Python, SQL, R, and cutting-edge machine learning frameworks like TensorFlow and PyTorch, I thrive on tackling challenges that bridge technology and strategy.
+Hi there! I’m a passionate Data & IT professional with a proven track record of transforming complex datasets and systems into game-changing insights and innovative solutions. With deep expertise in Python, SQL, R, and cutting-edge machine learning frameworks like TensorFlow and PyTorch, I thrive on tackling challenges that bridge technology and strategy.
 
 Beyond technical expertise, I excel at bringing companies from conception to revenue-positive, leveraging data-driven strategies to scale operations and achieve sustainable growth. My experience includes collaborating with C-level executives, building predictive models, optimizing workflows, and crafting compelling visualizations—all with the goal of delivering measurable impact.
 
-When I’m not immersed in data, you can find me enjoying anime, gaming, and spending quality time with my husky, family, and friends. I’m also passionate about exploring the ever-evolving world of AI and ML and connecting with like-minded professionals to push the boundaries of what’s possible. Let’s connect and create something amazing together!
+When I’m not immersed in data and IT, you can find me enjoying anime, gaming, and spending quality time with my husky, family, and friends. I’m also passionate about exploring the ever-evolving world of AI and ML and connecting with like-minded professionals to push the boundaries of what’s possible. Let’s connect and create something amazing together!
 
 <!-- Skills and Technologies -->
 ## 🚀 Skills and Technologies
